@@ -1,1 +1,2 @@
-# DataMining_Project_Group21
+# DataMining_Project_SkinCancerDetection
+
